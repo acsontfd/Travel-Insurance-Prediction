@@ -25,7 +25,7 @@ This project aims to predict whether a customer will purchase travel insurance b
 
 📊 Results
 
-The best-performing model achieved an accuracy of XX%, providing valuable insights into customer behavior and decision-making for travel insurance providers.
+The best-performing model (Random Forest) achieved an accuracy of 89%, providing valuable insights into customer behavior and decision-making for travel insurance providers.
 
 📁 Dataset
 
