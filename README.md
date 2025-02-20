@@ -17,7 +17,9 @@ This project aims to predict whether a customer will purchase travel insurance b
 🚀 Technologies Used:
 
  •	Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+ 
  •	Machine Learning algorithms (Logistic Regression, Decision Trees, XGBoost, etc.)
+ 
  •	Jupyter Notebook for experimentation and visualization
 
 📊 Results
