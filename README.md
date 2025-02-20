@@ -14,6 +14,7 @@ This project aims to predict whether a customer will purchase travel insurance b
 
 ✅ Insights into factors influencing travel insurance purchases
 
+
 🚀 Technologies Used:
 
  •	Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
