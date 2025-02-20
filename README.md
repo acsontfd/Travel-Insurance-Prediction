@@ -5,12 +5,17 @@ This project aims to predict whether a customer will purchase travel insurance b
 📌 Features
 
 ✅ Preprocessed and cleaned dataset for better model performance
+
 ✅ Feature engineering and exploratory data analysis (EDA)
+
 ✅ Trained machine learning models (e.g., Logistic Regression, Random Forest, XGBoost)
+
 ✅ Model evaluation using accuracy, precision, recall, and F1-score
+
 ✅ Insights into factors influencing travel insurance purchases
 
-🚀 Technologies Used
+🚀 Technologies Used:
+
 	•	Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 	•	Machine Learning algorithms (Logistic Regression, Decision Trees, XGBoost, etc.)
 	•	Jupyter Notebook for experimentation and visualization
